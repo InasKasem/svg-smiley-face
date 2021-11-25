@@ -20,7 +20,6 @@ html {
   fill: gold;
 }
 
-
 .mouth {
   fill: none;
   stroke: #000;
@@ -32,7 +31,7 @@ html {
   transform: rotate(80deg);
   transform-origin: 100px 82px;
   transition: all .5s linear;
-
+}
 
 .right-eyebrow {
   transform: rotate(100deg);
@@ -43,7 +42,6 @@ html {
 .smiley:hover .left-eyebrow {
   transform: rotate(100deg);
 }
-
 
 .smiley:hover .right-eyebrow {
   transform: rotate(80deg);
